@@ -119,7 +119,7 @@ Gachon Cocone School
 
 ---
 
-## 강의 자료(구글슬라이드-학교이메일 필요)
+## 강의 자료(구글슬라이드-학교이메일 로그인 필요)
 - [0.오리엔테이션](https://docs.google.com/presentation/d/1iDpJ_-bCWq64hfH6DwZUA9H_Y6VWxAXlyYHzVqjEECY/edit?usp=sharing)
 - TBD
 
