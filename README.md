@@ -2,8 +2,8 @@
 
 ---
 
-# 기업가정신
-2025학년도 1학기, Gachon Cocone School
+# 2025-1학기 기업가정신(금요일)
+Gachon Cocone School
 
 ---
 
