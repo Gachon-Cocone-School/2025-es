@@ -11,7 +11,7 @@ Gachon Cocone School
 - 강사 : 김남주 전임교수(가천대학교 스타트업칼리지)
 - Office : 가천대학교 AI관 6층 N03
 - e-mail : namjookim@gachon.ac.kr
-- 면담신청 : [구글캘린더 예약페이지로 사전 신청(학교이메일필요)](https://calendar.app.google/Z4pFaDujwLURBrmt8)
+- 면담신청 : [구글캘린더 예약페이지로 사전 신청(학교 이메일 로그인 필요)](https://calendar.app.google/Z4pFaDujwLURBrmt8)
 
 ---
 
