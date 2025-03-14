@@ -120,7 +120,7 @@ Gachon Cocone School
 ---
 
 ## 강의 슬라이드(학교 이메일 로그인 필요)
-- [0.오리엔테이션](https://docs.google.com/presentation/d/1iDpJ_-bCWq64hfH6DwZUA9H_Y6VWxAXlyYHzVqjEECY/edit?usp=sharing)
-- [1.인생의 첫번째 전환]()
+- [0.오리엔테이션(by 김남주 교수](https://docs.google.com/presentation/d/1iDpJ_-bCWq64hfH6DwZUA9H_Y6VWxAXlyYHzVqjEECY/edit?usp=sharing)
+- [1.인생의 첫번째 전환(by 장대익 학장](https://drive.google.com/file/d/1HU_mQ2m_9rn-J_IuErvR1wPqjuIjA39v/view?usp=drive_link)
 
 
