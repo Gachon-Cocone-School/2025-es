@@ -12,12 +12,14 @@ Gachon Cocone School
 - Office : 가천대학교 AI관 6층 N03
 - e-mail : namjookim@gachon.ac.kr
 - 면담신청 : [구글캘린더 예약페이지로 사전 신청(학교 이메일 로그인 필요)](https://calendar.app.google/Z4pFaDujwLURBrmt8)
-
+  
 ---
 
 ## 수업 정보
 - 시간 : 금 11:00 ~ 13:00
 - 장소 : AI관 100호 대형 강의실(천양현홀)
+- [카카오톡 오픈채팅방](https://open.kakao.com/o/gcaXE1jh)
+
 
 ---
 
