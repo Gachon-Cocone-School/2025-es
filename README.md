@@ -148,7 +148,7 @@ Gachon Cocone School
 - [0.오리엔테이션](https://docs.google.com/presentation/d/1iDpJ_-bCWq64hfH6DwZUA9H_Y6VWxAXlyYHzVqjEECY/edit?usp=sharing)
 - [1.인생의 첫번째 전환(by 장대익 학장)](https://drive.google.com/file/d/1HU_mQ2m_9rn-J_IuErvR1wPqjuIjA39v/view?usp=drive_link)
 - [2.GCS 투어 및 조구성]( https://docs.google.com/presentation/d/1RSxxeK2mcdHyJdor0Zlho_3SiJj4jiEbV3P5HTXXdUw/edit#slide=id.g33cdb80f340_0_104 )
-- 3. Cocone 천양현 회장님의 기업가 정신 동영상 강의 
+- [3. Cocone 천양현 회장님의 기업가 정신 동영상 강의 ]
   - [기업가정신-천양현회장 대담 1강(유튜브)](https://www.youtube.com/watch?v=rQkgsmDdeLI)
   - [기업가정신-천양현회장 대담 2강(유튜브)](https://www.youtube.com/watch?v=szgWQb4DWvg)
   - 레포트 과제 질문
@@ -159,7 +159,7 @@ Gachon Cocone School
     - 타인의 욕망을 이해하고 충족시켜 성공하기 위한 천양현 회장과 장대익 학장의 조언을 네 가지 이상 정리하고, 각 방법에 대한 자신의 생각을 간략히 덧붙이세요. (700자 이내)
     - 기업가정신과 리더십은 어떻게 연결되고 작용하는지 동영상 내용을 바탕으로 자신만의 예시를 들어 설명하세요. (500자 이내)
 - [4. 팀 티칭 #1 - 기업의 사회적 책임 - ESG(홍원준 교수,  가천대학교 스타트업 칼리지) - 준비중]
-- [5. 팀 티칭 #2 - 기업의 인사와 조직관리 (황선현 교수,  가천대학교 스타트업 칼리지) - 준비중]
+- [5. 팀 티칭 #2 - 기업의 인사와 조직관리 (황선현 교수,  가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1eER2vqrcd7YCAt0QYkcJUsaPeraH_s9r/view?usp=drive_link)
 
 ---
 
