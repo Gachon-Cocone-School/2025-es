@@ -160,6 +160,7 @@ Gachon Cocone School
     - 기업가정신과 리더십은 어떻게 연결되고 작용하는지 동영상 내용을 바탕으로 자신만의 예시를 들어 설명하세요. (500자 이내)
 - [4. 팀 티칭 #1 - 기업의 사회적 책임 - ESG(홍원준 교수,  가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1kFX3fz02_KSp7PaiXCycsKgnJIS345s1/view?usp=drive_link)
 - [5. 팀 티칭 #2 - 기업의 인사와 조직관리 (황성현 교수,  가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1eER2vqrcd7YCAt0QYkcJUsaPeraH_s9r/view?usp=drive_link)
+- [6. 팀 티칭 #3 - 인간본성과 기업가 정신(이민섭 교수,  가천대학교 스타트업 칼리지)](https://docs.google.com/presentation/d/1WFOg8DTjRqs9BKhR5O0XIaUZpqsxgrYiUU4KDpohSFA/edit?slide=id.p#slide=id.p)
 - [7. 팀 티칭 #4 - AI와 스타트업 (김남주 교수,  가천대학교 스타트업 칼리지)](https://docs.google.com/presentation/d/1FUF1kIc5903Rk0dvu6u4w_Y-IqmGDtmIbn0dM9OPqRs/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
 
 ---
