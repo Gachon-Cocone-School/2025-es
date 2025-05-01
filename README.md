@@ -163,6 +163,7 @@ Gachon Cocone School
 - [6. 팀 티칭 #3 - 인간본성과 기업가 정신(이민섭 교수,  가천대학교 스타트업 칼리지)](https://docs.google.com/presentation/d/1WFOg8DTjRqs9BKhR5O0XIaUZpqsxgrYiUU4KDpohSFA/edit?slide=id.p#slide=id.p)
 - [7. 팀 티칭 #4 - AI와 스타트업 (김남주 교수,  가천대학교 스타트업 칼리지)](https://docs.google.com/presentation/d/1FUF1kIc5903Rk0dvu6u4w_Y-IqmGDtmIbn0dM9OPqRs/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
 - [8. 팀 티칭 #5 - 디지털 경제 기업의 중요성(최재홍 교수,  가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1jTvorG9bCzFAAXlL0xoyynqy8CNa64zq/view?usp=drive_link)
+- [9. 기업가정신 토론대회 16강](https://docs.google.com/presentation/d/1L8q9K9tqvamcilkTsofzvR4rJhm5E2ga92zyzoLQKwo/edit?slide=id.g338d125e06d_0_57#slide=id.g338d125e06d_0_57)
 
 ---
 
