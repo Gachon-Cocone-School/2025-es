@@ -54,7 +54,7 @@ Gachon Cocone School
 - 6주차(2025.4.11) - 팀 티칭 #2 - 기업의 인사와 조직관리 (황성현 교수,  가천대학교 스타트업 칼리지)
 - 7주차(2025.4.18) - 팀 티칭 #3 - 인간본성과 기업가 정신(이민섭 교수,  가천대학교 스타트업 칼리지)
 - 8주차(2025.4.25) - 팀 티칭 #4 - 인공지능과 스타트업(김남주 교수,  가천대학교 스타트업 칼리지)
-- 9주차(2025.5.2) - 팀 티칭 #5 - 플랫폼의 이해(최재홍 교수,  가천대학교 스타트업 칼리지)
+- 9주차(2025.5.2) - 팀 티칭 #5 - 디지털 경제 기업의 중요성(최재홍 교수,  가천대학교 스타트업 칼리지)
 
 ### 특강 및 토론 수업
 - 10주차(2025.5.09) - 중간토론1
@@ -162,6 +162,7 @@ Gachon Cocone School
 - [5. 팀 티칭 #2 - 기업의 인사와 조직관리 (황성현 교수,  가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1eER2vqrcd7YCAt0QYkcJUsaPeraH_s9r/view?usp=drive_link)
 - [6. 팀 티칭 #3 - 인간본성과 기업가 정신(이민섭 교수,  가천대학교 스타트업 칼리지)](https://docs.google.com/presentation/d/1WFOg8DTjRqs9BKhR5O0XIaUZpqsxgrYiUU4KDpohSFA/edit?slide=id.p#slide=id.p)
 - [7. 팀 티칭 #4 - AI와 스타트업 (김남주 교수,  가천대학교 스타트업 칼리지)](https://docs.google.com/presentation/d/1FUF1kIc5903Rk0dvu6u4w_Y-IqmGDtmIbn0dM9OPqRs/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
+- [8. 팀 티칭 #5 - 디지털 경제 기업의 중요성(최재홍 교수,  가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1jTvorG9bCzFAAXlL0xoyynqy8CNa64zq/view?usp=drive_link)
 
 ---
 
