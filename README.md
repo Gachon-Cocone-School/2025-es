@@ -165,6 +165,7 @@ Gachon Cocone School
 - [8. 팀 티칭 #5 - 디지털 경제 기업의 중요성(최재홍 교수,  가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1jTvorG9bCzFAAXlL0xoyynqy8CNa64zq/view?usp=drive_link)
 - [9 학생 창업자 특강](https://docs.google.com/presentation/d/1dB17qCE-bhQQzHGvFhIGau88PpyBrjGf5q2xY8gv0X8/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
 - [10. 기업가정신 토론대회 16강](https://docs.google.com/presentation/d/1L8q9K9tqvamcilkTsofzvR4rJhm5E2ga92zyzoLQKwo/edit?slide=id.g338d125e06d_0_57#slide=id.g338d125e06d_0_57)
+- [11. 기업가정신 토론대회 8강](https://docs.google.com/presentation/d/1VsHF_mG8IMLsfGs73AKCn9g1aCfAYcwrPvrOj05uMdc/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
 
 ---
 
